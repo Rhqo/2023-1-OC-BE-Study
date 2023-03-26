@@ -68,7 +68,7 @@ public class HelloController {
 
 Id를 입력받고, 그 아이디를 간단하게 Base64로 인코딩해서 pw에 저장하는 API이다.
 
-![Untitled](GDSC%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%204ea4088d409944b9852f8125fdad4c80/Untitled.png)
+![Untitled](WIL1.png)
 
 ## RESTful 이란?
 
