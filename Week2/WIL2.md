@@ -2,7 +2,7 @@
 
 # 1. 컨트롤러, 서비스, 리포지토리의 역할
 
-![Untitled](Week2%200ce59af3c5ea4719ae09f350ec76fe95/Untitled.png)
+![Untitled](WIL2.png)
 
 - 컨트롤러(Controller): 웹 MVC의 컨트롤러 역할
 - 서비스(Service): 핵심 비즈니스 로직 구현
